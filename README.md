@@ -28,10 +28,18 @@ A simple chatbot built with **Flask + OpenAI API** that answers FAQs about Iron 
    ```bash
    pip install -r requirements.txt
 3. Add your OpenAI API key inside app.py.
-4. Run the app:
+   - Create a .env file in the project folder:
+     ```ini
+     OPENAI_API_KEY=YOUR_API_KEY_HERE
+   - Important: Do not share your real API key publicly.
+   - You can copy .env.example and replace the placeholder:
+     ```bash
+     cp .env.example .env
+
+5. Run the app:
    ```bash
    python app.py
-5. Open http://127.0.0.1:5000 in your browser.
+6. Open http://127.0.0.1:5000 in your browser.
 
 ## 🔑 Note
 
