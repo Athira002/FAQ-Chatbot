@@ -33,7 +33,7 @@ A simple chatbot built with **Flask + OpenAI API** that answers FAQs about Iron 
    python app.py
 5. Open http://127.0.0.1:5000 in your browser.
 
-# 🔑 Note
+## 🔑 Note
 
 Since this project uses the OpenAI API, you need your own API key.
  
