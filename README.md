@@ -46,6 +46,4 @@ A simple chatbot built with **Flask + OpenAI API** that answers FAQs about Iron 
 - This project is safe to push to GitHub because the .env file is ignored in version control.
 - Recruiters or other users need to create their own API key to run the chatbot.
  
-## References
 
-OpenAI API Documentation
