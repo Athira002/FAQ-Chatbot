@@ -24,3 +24,15 @@ A simple chatbot built with **Flask + OpenAI API** that answers FAQs about Iron 
    ```bash
    git clone https://github.com/yourusername/chatbot.git
    cd chatbot
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Add your OpenAI API key inside app.py.
+4. Run the app:
+   ```bash
+   python app.py
+5. Open http://127.0.0.1:5000 in your browser.
+## 🔑 Note
+
+Since this project uses the OpenAI API, you need your own API key.
+---
