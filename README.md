@@ -36,5 +36,4 @@ A simple chatbot built with **Flask + OpenAI API** that answers FAQs about Iron 
 # 🔑 Note
 
 Since this project uses the OpenAI API, you need your own API key.
----
  
